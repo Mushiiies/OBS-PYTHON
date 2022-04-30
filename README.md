@@ -1,7 +1,7 @@
 # OBS-PYTHON
 *Just a portable version of Python for ease of use with OBS scripts.*
 
-I didn't create anything, simply assembled embeded Python 3.6.7
+I didn't create anything, simply assembled embedded Python 3.6.7
 
 ***Made for use with https://github.com/tryptech/obs-zoom-and-follow script.***
 
@@ -57,3 +57,4 @@ Navigate the menu:
 Point it at your Python folder `C:/OBS PYTHON`.
 
 7. Add the Zoom and follow script!
+8. Make coffee.
