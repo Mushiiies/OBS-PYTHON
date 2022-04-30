@@ -1,8 +1,13 @@
 # OBS-PYTHON
-Just a portable version of Python for ease of use with OBS scripts.
-Made for use with https://github.com/tryptech/obs-zoom-and-follow script.
+*Just a portable version of Python for ease of use with OBS scripts.
+Made for use with https://github.com/tryptech/obs-zoom-and-follow script.*
 
-Just extract zip, Launch OBS and point it at the `OBS PYTHON` folder and then add the zoom-and-follow.py
+#### EASY MODE
+1. Download `OBS PYTHON.ZIP`
+2. Extract `OBS PYTHON` Folder to wherever you want it.
+3. Launch OBS and Click on `Tools->Scripts->Python Settings` Set `OBS PYTHON` as the Python Directory.
+4. On `Scripts` Tab, now Click the [+] to add a new script, select `zoom_and_follow_mouse.py`
+
 
 Follow [tryptech's instructions](https://github.com/tryptech/obs-zoom-and-follow "Zoom and Follow Git") to set up the script settings.
 
