@@ -17,12 +17,14 @@ Follow [tryptech's instructions](https://github.com/tryptech/obs-zoom-and-follow
 #### MAKE IT YOURSELF
 If you would prefer to set this up yourself
 
-1. [Download Python Embed](https://www.python.org/ftp/python/3.6.7/python-3.6.7-embed-amd64.zip "Python 3.6.7 Embedded")
- Extract contents to a folder eg 
+1. [Download Python Embed](https://www.python.org/ftp/python/3.6.7/python-3.6.7-embed-amd64.zip "Python 3.6.7 Embedded") (Has to be v3.6.x)
+
+Extract contents to a folder eg 
 
 ```C:\OBS PYTHON\```
 
 2. [Download suitable PIP](https://bootstrap.pypa.io/pip/3.6/get-pip.py "Python 3.6 PIP")
+
 Put PIP in Python folder
 
 ```C:\OBS PYTHON\get-pip.py```
