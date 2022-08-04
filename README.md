@@ -1,12 +1,12 @@
 # OBS-PYTHON
 *Just a portable version of Python for ease of use with OBS scripts.*
 
-I didn't create anything, simply assembled embedded Python 3.6.7
+I didn't create anything, simply assembled embedded Python 3.6.8
 
 ***Made for use with https://github.com/tryptech/obs-zoom-and-follow script.***
 
 #### EASY MODE
-1. Download [OBS PYTHON.ZIP](https://github.com/Mushiiies/OBS-PYTHON/files/8596758/OBS.PYTHON.zip "Pre-made portable version of Python 3.6.7")
+1. Download [OBS PYTHON.ZIP](https://github.com/Mushiiies/OBS-PYTHON/files/8596758/OBS.PYTHON.zip "Pre-made portable version of Python 3.6.8")
 2. Extract `OBS PYTHON` Folder to wherever you want it.
 3. Launch OBS and Click on `Tools->Scripts->Python Settings` Set `OBS PYTHON` as the Python Directory.
 4. On `Scripts` Tab, now Click the [+] to add a new script, select `zoom_and_follow_mouse.py`
@@ -17,7 +17,7 @@ Follow [tryptech's instructions](https://github.com/tryptech/obs-zoom-and-follow
 #### MAKE IT YOURSELF
 If you would prefer to set this up yourself
 
-1. [Download Python Embed](https://www.python.org/ftp/python/3.6.7/python-3.6.7-embed-amd64.zip "Python 3.6.7 Embedded") (Has to be v3.6.x)
+1. [Download Python Embed](https://www.python.org/ftp/python/3.6.8/python-3.6.8-embed-amd64.zip "Python 3.6.8 Embedded") (Has to be v3.6.x)
 
 Extract contents to a folder eg 
 
